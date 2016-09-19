@@ -5,27 +5,6 @@
   <groupId>sk.stofo89</groupId>
   <artifactId>easyrelease</artifactId>
   <version>0.2.2</version>
-  <name>EasyRelease Library</name>
-  <description>Gradle plugin for Android projects that helps with signing release APKs</description>
-  <url>https://github.com/stofo89/easyrelease</url>
-  <licenses>
-    <license>
-      <name>The Apache Software License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <id>stofo89</id>
-      <name>stofo89</name>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git@github.com:stofo89/easyrelease.git</connection>
-    <developerConnection>scm:git@github.com:stofo89/easyrelease.git</developerConnection>
-    <url>https://github.com/stofo89/easyrelease</url>
-  </scm>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

@@ -3,30 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>sk.eglu</groupId>
-  <artifactId>Framework</artifactId>
+  <artifactId>framework</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <name>Framework Library</name>
-  <description>Base framework for eGlu android apps</description>
-  <url>https://bitbucket.org/eglu/sharedlibrary-android</url>
-  <licenses>
-    <license>
-      <name>The Apache Software License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <id>eglu</id>
-      <name>eglu</name>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git@bitbucket.org:eglu/sharedlibrary-android.git</connection>
-    <developerConnection>scm:git@bitbucket.org:eglu/sharedlibrary-android.git</developerConnection>
-    <url>https://bitbucket.org/eglu/sharedlibrary-android</url>
-  </scm>
   <dependencies>
     <dependency>
       <groupId>io.reactivex</groupId>
